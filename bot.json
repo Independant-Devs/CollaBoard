@@ -1,0 +1,20 @@
+{
+    "token": "NzE0NDU4MzE2MDAwMTk4NjY2.Xsu9YQ.S03RCaeS9-oYNsdYfEn7w97UOuY",
+    "invoker": "cr!",
+    "fileformats": [
+        ".mp3", ".wav"
+    ],
+    "host": "0.0.0.0", 
+    "port": 3545, 
+    "volume": 0.5, 
+    "admins": [
+        679700991829999600,
+        690216908024316051
+    ], 
+    "blacklist": [
+        
+    ],
+    "ownerID": 690216908024316051,
+    "modGuildID": 712622026300457051,
+    "modChannelID": 714721495129129029
+}
