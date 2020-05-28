@@ -11,7 +11,7 @@
     ], 
     "blacklist": [
     ],
-    "ownerID": Your id goes here,
-    "modGuildID": Your guild id goes here,
-    "modChannelID": Your channel id goes here
+    "ownerID": Your_id_goes_here,
+    "modGuildID": Your_guild_id_goes_here,
+    "modChannelID": Your_channel_id_goes_here
 }
